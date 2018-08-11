@@ -20,11 +20,11 @@ var mixedCase = "I love you, too."
 function sayHiToGrandma(string) {
 if ("hello") {
   return `${lowercase}`
-}
+};
 
 else if ("HELLO.toUpperCase") {
   return `${uppercase}`
-}
+};
 
 else if ("I love you, Grandma.") {
   return `${mixedCase}`
