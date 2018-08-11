@@ -22,7 +22,7 @@ if ("hello") {
   return `${lowercase}`
 }
 
-else if ("HELLO") {
+else if ("HELLO.toUpperCase") {
   return `${uppercase}`
 }
 
