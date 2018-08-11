@@ -22,11 +22,11 @@ if (string.toLowerCase() === string) {
   return `${lowercase}`
 }
 
-else if (string"HELLO".toUpperCase) {
+else if (string.toUpperCase() === string) {
   return `${uppercase}`
 }
 
-else if ("I love you, Grandma.") {
+else if (string.toLowerCase() === mixedCase) {
   return `${mixedCase}`
 }
 
