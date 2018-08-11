@@ -18,6 +18,16 @@ var uppercase = "YES INDEED!"
 var mixedCase = "I love you, Grandma."
 
 function sayHiToGrandma(string) {
+if uppercase {
+  return 'YES INDEED!'
+}
 
+else if lowercase {
+  return `${lowercase}`
+}
+
+else {
+  return ${mixedCase}
+}
 
 
