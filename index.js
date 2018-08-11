@@ -21,3 +21,10 @@ function sayHiToGrandma(string) {
  return `${lowercase}`
 }
 
+function sayHiToGrandma(STRING) {
+ return `${uppercase}`
+}
+
+function sayHiToGrandma("I love you, Grandma.") {
+ return `${mixedCase}`
+}
