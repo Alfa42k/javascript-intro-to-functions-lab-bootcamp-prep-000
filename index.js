@@ -26,7 +26,7 @@ else if (string.toUpperCase) {
   return `${uppercase}`
 }
 
-else {
+else if (string = "I love you, Grandma.") {
   return `${mixedCase}`
 }
 
