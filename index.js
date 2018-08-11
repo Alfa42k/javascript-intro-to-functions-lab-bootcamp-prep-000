@@ -26,7 +26,7 @@ else if (string.toUpperCase() === string) {
   return `${uppercase}`
 }
 
-else if (string.toLowerCase() === mixedCase) {
+else (string.toLowerCase() === mixedCase) {
   return `${mixedCase}`
 }
 
