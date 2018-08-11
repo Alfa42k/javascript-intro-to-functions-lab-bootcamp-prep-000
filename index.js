@@ -22,8 +22,8 @@ if (string) {
   return `${lowercase}`
 }
 
-else if (hello) {
-  return `${lowercase}`
+else if (string.toUpperCase) {
+  return `${uppercase}`
 }
 
 else {
